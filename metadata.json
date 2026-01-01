@@ -1,0 +1,5 @@
+{
+  "name": "ScreenPrint Separator",
+  "description": "Professional image channel separation tool for screen printing (Serigraphy). Supports CMYK and Custom Spot Color separation directly in the browser.",
+  "requestFramePermissions": []
+}
